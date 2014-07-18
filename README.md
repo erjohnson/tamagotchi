@@ -1,4 +1,4 @@
-JavaScript Project Boilerplate
+Tamagotchi!
 =======================
 
-Quick starter for assignments at Epicodus.
+The [Tamagotchi](http://www.learnhowtoprogram.com/lessons/tamagotchi) project for [Epicodus](http://www.epicodus.com/).
